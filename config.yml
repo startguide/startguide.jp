@@ -9,6 +9,7 @@ layout: default
 plugins:
   - jekyll-feed
   - jekyll-twitter-plugin
+  - jekyll-youtube
 
 permalink: /:month/:day/:minute
 gist:
