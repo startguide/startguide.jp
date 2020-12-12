@@ -8,6 +8,7 @@ baseurl : /
 layout: default
 plugins:
   - jekyll-feed
+  - jekyll-twitter-plugin
 
 permalink: /:month/:day/:minute
 gist:
