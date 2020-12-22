@@ -3,7 +3,9 @@
 <img src="https://img.shields.io/github/forks/sannomaru/sannomaru.github.io"> </img>
 <img src="https://img.shields.io/github/stars/sannomaru/sannomaru.github.io"> </img>
 <img src="https://img.shields.io/github/license/sannomaru/sannomaru.github.io"> </img>
-# WEB制作スタートガイド
-CoderDojo三の丸が作成している、web初心者向けのスタートアップガイドです。
+# CoderDojo三の丸
+CoderDojo三の丸です。
 Githubpagesでサイトホストしてます。
-https://sannomaru.github.io/docs
+https://sannomaru.github.io/
+
+
