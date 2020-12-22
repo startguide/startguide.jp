@@ -6,7 +6,7 @@
 
 .jumbotron {
   position: relative;
-  background: url(https://sannomaru.github.io/bxs.png) center center;
+  background: url(sannomaru.github.io/docs/back.png) center center;
   background-size: cover;
 }
 
@@ -181,9 +181,6 @@ img.emoji {
   text-align: left
 }
 
-.navbar {
-  opacity: 0.55;
-}
 
 .card {
   opacity: 0.85;
@@ -206,4 +203,14 @@ img.emoji {
 .imgs {
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
+}
+.navbar{
+  font-family: 'JetBrains Mono', monospace;
+  margin:0 auto;
+}
+.titles{
+  margin-left: 10px;
+}
+.main-title{
+  margin:30px;
 }
