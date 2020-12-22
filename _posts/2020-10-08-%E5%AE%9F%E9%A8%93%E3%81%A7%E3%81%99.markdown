@@ -1,0 +1,7 @@
+---
+permalink: /:month/:day/:title:output_ext
+title: "実験です"
+date: "2020-10-08 14:14:45 +0900"
+---
+試験投稿です
+実験投稿
