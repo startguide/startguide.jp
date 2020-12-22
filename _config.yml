@@ -3,13 +3,13 @@ title: CoderDojoSannomaru
 email: sannomaru@coderdojo.com
 
 
-url: "https://sannomaru.github.io/docs" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sannomaru.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl : /
 # Build settings
 layout: default
 plugins:
   - jekyll-feed
 
-permalink: /:categories/:month/:day/:minute
+permalink: docs/:categories/:month/:day/:minute
 gist:
   noscript: false
