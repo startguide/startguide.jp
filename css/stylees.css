@@ -208,6 +208,7 @@ img.emoji {
   font-family: 'JetBrains Mono', monospace;
   margin:0 auto;
 }
+
 .titles{
   margin-left: 10px;
 }
@@ -221,5 +222,10 @@ img.emoji {
   background-color: rgba(104,255,204,0.8);
   background-position: center;
   border:none;
+
+}
+body{
+  border: none;
+  font-family: 'JetBrains Mono', monospace;
 
 }
