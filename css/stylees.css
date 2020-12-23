@@ -1,0 +1,219 @@
+.content,
+.pic,
+.sankaku {
+  z-index: 0;
+}
+
+.jumbotron {
+  position: relative;
+  background: url(https://sannomaru.github.io/docs/back.png) center center;
+  background-size: cover;
+}
+
+.tops {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.pic {
+  position: absolute;
+  z-index: 2;
+  width: 300px;
+  height: 150px;
+}
+
+.content {
+  z-index: 1;
+  position: absolute;
+  top: 100px;
+  left: 5px;
+  height: 150px;
+  width: 280px;
+  padding-top: 55px;
+}
+
+.cds {
+  position: absolute;
+  z-index: 100;
+}
+
+.card {
+  box-shadow:
+    0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+    0 5px 6.1px rgba(0, 0, 0, 0.076),
+    0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+    0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+    0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+    0 101px 74px rgba(0, 0, 0, 0.13);
+}
+
+.sankaku {
+  position: absolute;
+  border-style: solid;
+  border-width: 0 20px 20px 0;
+  border-color: transparent #000000 transparent transparent;
+  top: 150px;
+  left: -15px;
+}
+
+.botan {
+  z-index: 2;
+  top: 0;
+  left: 0;
+  position: absolute;
+  padding: 0.5em 1em;
+  background: #74ebd5;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ACB6E5, #74ebd5);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #FFF;
+  box-shadow:
+    0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+    0 5px 6.1px rgba(0, 0, 0, 0.076),
+    0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+    0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+    0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+    0 101px 74px rgba(0, 0, 0, 0.13);
+}
+
+.botans {
+  z-index: 0;
+  position: absolute;
+  width: 110px;
+  height: 40px;
+  padding: 0.5em 1em;
+  top: 10px;
+  left: 10px;
+  background: #74ebd5;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ACB6E5, #74ebd5);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.botana {
+  position: relative;
+}
+
+.tps {
+  font-family: 'Poppins', sans-serif;
+}
+
+.sms {
+  background-color: black;
+  background: black;
+}
+
+.mas {
+  position: relative;
+}
+
+.cds {
+  position: relative;
+}
+
+body {
+  /* background-color: #f7f7f7; */
+  background: linear-gradient(to right, skyblue, pink);
+  /* animation: backgroundimg 5s infinite; */
+}
+
+@keyframes backgroundimg {
+  0% {
+    background: linear-gradient(to right, skyblue, pink)
+  }
+
+  50% {
+    background: linear-gradient(to right, green, orange)
+  }
+
+  100% {
+    background: linear-gradient(to right, orange, green)
+  }
+}
+
+.face {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.card {
+  margin-top: 30px;
+  text-align: center;
+  border-radius: 30px;
+  backdrop-filter: blur(3px);
+  backdrop-filter: opacity;
+}
+
+.modal {
+  text-align: center;
+  border-radius: 30px;
+  backdrop-filter: blur(3px);
+  backdrop-filter: opacity;
+}
+
+.title {
+  text-align: center;
+  margin: 10px auto;
+}
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
+.headers {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+  height: 3px;
+}
+
+.maintxt {
+  text-align: left
+}
+
+
+.card {
+  opacity: 0.85;
+  background-color: rgba(204, 255, 204, 0.22);
+  border: none;
+}
+
+.modal-dialog {
+  background-color: rgba(204, 255, 204, 0.22);
+  border: none;
+  border-radius: 30px;
+}
+
+.modal-content {
+  background-color: rgba(204, 255, 204, 0.22);
+  border: none;
+  border-radius: 30px;
+}
+
+.imgs {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.navbar{
+  font-family: 'JetBrains Mono', monospace;
+  margin:0 auto;
+}
+.titles{
+  margin-left: 10px;
+}
+.main-title{
+  margin:30px;
+}
+.main-images{
+  opacity:0.5;
+}
