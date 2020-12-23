@@ -10,6 +10,6 @@ layout: default
 plugins:
   - jekyll-feed
 
-permalink: /:categories/:month/:day/:minute
+permalink: /docs/:categories/:month/:day/:minute
 gist:
   noscript: false
