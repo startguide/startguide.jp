@@ -218,5 +218,8 @@ img.emoji {
   opacity:0.5;
 }
 .footer{
-  background-color: gray;
+  background-color: rgba(104,255,204,0.8);
+  background-position: center;
+  border:none;
+
 }
