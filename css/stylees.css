@@ -117,7 +117,7 @@
 
 body {
   /* background-color: #f7f7f7; */
-   background: linear-gradient(to right, skyblue, yellow); 
+   background: linear-gradient(to right, skyblue, #00ced1); 
   /* animation: backgroundimg 5s infinite; */
 }
 
