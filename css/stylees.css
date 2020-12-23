@@ -117,7 +117,7 @@
 
 body {
   /* background-color: #f7f7f7; */
-   background: linear-gradient(to right, skyblue,white); 
+   background: linear-gradient(to right, skyblue,white);
   /* animation: backgroundimg 5s infinite; */
 }
 
@@ -208,13 +208,17 @@ img.emoji {
   font-family: 'JetBrains Mono', monospace;
   margin:0 auto;
 }
+.main-text{
+    font-family: 'JetBrains Mono', monospace;
+    font-size:50px;
+
+padding-top:200px;
+}
 
 .titles{
   margin-left: 10px;
 }
-.main-title{
-  margin:30px;
-}
+
 .main-images{
   opacity:0.5;
 }
@@ -228,4 +232,10 @@ body{
   border: none;
   font-family: 'JetBrains Mono', monospace;
 
+}
+.main-1{
+  background-image: url(../media/window.png);
+  position: relative;
+
+  background-size: cover;
 }
