@@ -6,7 +6,7 @@
 
 .jumbotron {
   position: relative;
-  background: url(https://sannomaru.github.io/docs/media/mainback.png) center center;
+  background: url(https://sannomaru.github.io/docs/back.png) center center;
   background-size: cover;
   height:90vh;
 }
@@ -117,8 +117,9 @@
 }
 
 body {
+  background-color:#f6f6f4;
   /* background-color: #f7f7f7; */
-   background: linear-gradient(to right, skyblue,white);
+/*   background: linear-gradient(to right, skyblue,white);*/
   /* animation: backgroundimg 5s infinite; */
 }
 
@@ -148,6 +149,16 @@ body {
   border-radius: 30px;
   backdrop-filter: blur(3px);
   backdrop-filter: opacity;
+}
+.list-group{
+  margin-top: 30px;
+  text-align: center;
+  border-radius: 30px;
+  backdrop-filter: blur(3px);
+  backdrop-filter: opacity;
+  opacity: 0.85;
+  background-color: rgba(204, 255, 204, 0.22);
+  border: none;
 }
 
 .modal {
@@ -230,7 +241,7 @@ padding-top:200px;
 
 }
 body{
-  border: none;
+
   font-family: 'JetBrains Mono', monospace;
 
 }
@@ -243,4 +254,7 @@ body{
 .s-1{
   padding-top:30px;
   font-size:20px;
+}
+.call{
+  padding-top:150px;
 }
