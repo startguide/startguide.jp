@@ -153,13 +153,18 @@ body {
 .list-group{
   margin-top: 30px;
   text-align: center;
-  border-radius: 30px;
+  border-radius: 10px;
   backdrop-filter: blur(3px);
   backdrop-filter: opacity;
   opacity: 0.85;
-  background-color: rgba(204, 255, 204, 0.22);
+  background-color: rgba(204, 255, 204, 0.52);
   border: none;
 }
+li,ul{
+  border: none;
+
+}
+
 
 .modal {
   text-align: center;
@@ -243,6 +248,7 @@ padding-top:200px;
 body{
 
   font-family: 'JetBrains Mono', monospace;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
 
 }
 .main-1{
@@ -256,5 +262,5 @@ body{
   font-size:20px;
 }
 .call{
-  padding-top:150px;
+  padding-top:100px;
 }
