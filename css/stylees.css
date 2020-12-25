@@ -267,3 +267,13 @@ body{
 .red{
   color:#380953;
 }
+.endarc{
+  min-height: 400px;
+ border-bottom-right-radius: 1000px 200px;
+ border-bottom-left-radius: 1000px 200px;
+ margin-left: -100px;
+ margin-right: -100px;
+ padding-left: 100px;
+ padding-right: 100px;
+ background: #2ECCFA;
+}
