@@ -1,15 +1,15 @@
 
-title: CoderDojoSannomaru
+title: STARTGUIDE.jp
 email: sannomaru@coderdojo.com
 
 
-url: "https://www.startguide.jp "
+url: "https://www.startguide.jp/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl : /
 # Build settings
 layout: default
 plugins:
   - jekyll-feed
 
-permalink: /:categories/:month/:day/:minute
+permalink: /:month/:day/:minute
 gist:
   noscript: false
