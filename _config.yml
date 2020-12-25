@@ -3,7 +3,7 @@ title: STARTGUIDE.jp
 email: sannomaru@coderdojo.com
 
 
-url: "https://www.startguide.jp/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://startguide.jp/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl : /
 # Build settings
 layout: default
