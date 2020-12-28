@@ -159,10 +159,11 @@ body {
   opacity: 0.85;
   background-color: rgba(204, 255, 204, 0.52);
   border: none;
+
 }
 li,ul{
   border: none;
-
+font-size:10px;
 }
 
 
