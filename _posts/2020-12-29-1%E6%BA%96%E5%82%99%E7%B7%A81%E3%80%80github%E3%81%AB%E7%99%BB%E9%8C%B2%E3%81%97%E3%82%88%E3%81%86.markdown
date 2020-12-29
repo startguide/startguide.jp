@@ -14,4 +14,11 @@ Githubはすべて英語です。
 <img src="https://startguide.jp/media-post/1-1/1.png" width="500px">
 ## 1.左上の"sign up"を押す
 <img src="https://startguide.jp/media-post/1-1/2.png" width="500px">  
-usernameとMailAddressとPassWordを入れて、クイズに回答しましょう。
+usernameとMailAddressとPassWordを入れて、クイズに回答しましょう。  
+
+<img src="https://startguide.jp/media-post/1-1/3.png" width="500px">  
+使う目的を聞かれるので、ここではStudent(生徒)を選択しましょう。
+次にプログラミングの経験を聞かれるので、"A Little"(少しだけ)とかを選択します。
+最後に"What do you plan to use GitHub for?"(なににGitHubを使うの？)と聞かれるので、
+"Learn to Code"(コードを学ぶ)にしましょう。
+すべての回答が終わったら、"Complete Setup"を押して進みましょう。
