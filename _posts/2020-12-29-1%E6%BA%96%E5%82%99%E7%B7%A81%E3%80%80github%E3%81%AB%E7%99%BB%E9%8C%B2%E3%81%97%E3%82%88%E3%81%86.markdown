@@ -12,3 +12,4 @@ Githubはすべて英語です。
 まあ何とかなるので進めていきましょう。
 
 <img src="https://startguide.jp/media-post/1-1/1.png" width="500px">
+## 1.左上の"sign up"を押す
