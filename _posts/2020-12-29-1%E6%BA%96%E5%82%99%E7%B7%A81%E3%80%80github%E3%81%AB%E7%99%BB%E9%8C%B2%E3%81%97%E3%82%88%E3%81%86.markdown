@@ -11,4 +11,4 @@ Githubは、世界中の開発者がコードを共有しているサイトで�
 Githubはすべて英語です。
 まあ何とかなるので進めていきましょう。
 ![1]()
-<img src="https://startguide.jp/media-post/1-1/1.png"width="500px">
+<img src="https://startguide.jp/media-post/1-1/1.png" width="500px">
