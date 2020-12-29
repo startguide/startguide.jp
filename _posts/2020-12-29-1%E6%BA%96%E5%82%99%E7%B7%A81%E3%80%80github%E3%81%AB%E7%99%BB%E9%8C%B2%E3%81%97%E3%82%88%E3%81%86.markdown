@@ -32,3 +32,6 @@ UserNameとMailAddressとPassWordを入れて、クイズに回答しましょ�
 "Create Repository"をクリックして次へ進みましょう。  
 # GitHubDesktopをインストールしよう
 <img src="https://startguide.jp/media-post/1-1/6.png" width="500px">  
+最初のリポジトリが作成されました。これがあなたの最初のキャンバスです。  
+次に[こちら](https://desktop.github.com/)からGitHubDesktopをインストールしましょう。
+その後リポジトリに戻り、"Set up Desktop"をクリックして自分のパソコンにリポジトリを入れましょう。
