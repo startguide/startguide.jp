@@ -10,4 +10,5 @@ Githubは、世界中の開発者がコードを共有しているサイトで�
 # アカウントを登録しよう
 Githubはすべて英語です。
 まあ何とかなるので進めていきましょう。
-![1](https://startguide.jp/media-post/1-1/1.png)
+![1]()
+<img src="https://startguide.jp/media-post/1-1/1.png"width="500px">
