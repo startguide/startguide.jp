@@ -26,7 +26,7 @@ usernameとMailAddressとPassWordを入れて、クイズに回答しましょ�
 # リポジトリを作成しよう
 ここまででGitHubの登録作業は完了しました。次は、ファイルを置く場所となる"リポジトリ"を作成しましょう。  
 <img src="https://startguide.jp/media-post/1-1/4.png" width="500px">  
-[トップページ](https://github.com/) に戻り、"Cerate Repository"を選択しましょう。
+[トップページ](https://github.com/) に戻り、"Cerate Repository"を選択しましょう。  
 <img src="https://startguide.jp/media-post/1-1/5.png" width="500px">  
 "Repository Name"を決めて、"Description"(説明)を入力しましょう。  
 "Create Repository"をクリックして次へ進みましょう。  
