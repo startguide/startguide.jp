@@ -4,10 +4,8 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,400&display=swap">
-  <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/ituyama/sannomaru/master/favicon.png">
-  <link rel="stylesheet" href="https://sannomaru.github.io/css/stylees.css">
+
+  {% include head.html %}
 </head>
 
 <body>
@@ -15,11 +13,8 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
   <script src="https://twemoji.maxcdn.com/v/13.0.1/twemoji.min.js" integrity="sha384-5f4X0lBluNY/Ib4VhGx0Pf6iDCF99VGXJIyYy7dDLY5QlEd7Ap0hICSSZA1XYbc4" crossorigin="anonymous"></script>
   <!-- Image and text -->
-  <nav class="navbar navbar-expand-lg justify-content-center sticky-top navbar-light bg-light">
-    <a class="navbar-brand" href="https://sannomaru.github.io/">
-      <img src="https://sannomaru.github.io/dojologo.png" width="200" height="60">
-    </a>
-  </nav>
+  {% include script.html %}
+  {% include header.html %}
 
   <div class="container-fluid">
     <div class="row title">
@@ -48,13 +43,6 @@
       </div>
     </div>
   </div>
-
-  <!--タイトル-->
-
-  <!--メインカード-->
-
-  <!--メンター一覧-->
-
 
   <style>
     li.emoji {
