@@ -280,7 +280,8 @@ p {
   top: 10px;
   left: 23px;
   z-index: 2;
-}.book {
+}
+.book {
   width: 100%;
   height: auto;
 }
