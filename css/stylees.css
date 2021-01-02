@@ -282,7 +282,7 @@ p {
   z-index: 2;
 }
 .book{
-  height:425px;
-  width:350px;
+  height:100%;
+  width:auto;
   margin: 50px;
 }
