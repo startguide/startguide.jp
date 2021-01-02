@@ -284,5 +284,6 @@ p {
 .book{
   height:auto;
   width:auto;
+  max-width : 100%;
   margin: 50px;
 }
