@@ -11,12 +11,12 @@ Githubは、世界中の開発者がコードを共有しているサイトで�
 Githubはすべて英語です。
 まあ何とかなるので進めていきましょう。
 
-<img src="https://startguide.jp/media-post/1-1/1.png" width="500px">
+<img src="https://startguide.jp/media-post/1-1/1.png" width="50vw">
 ## 1.左上の"sign up"を押す
-<img src="https://startguide.jp/media-post/1-1/2.png" width="500px">  
+<img src="https://startguide.jp/media-post/1-1/2.png" width="50vw">  
 UserNameとMailAddressとPassWordを入れて、クイズに回答しましょう。  
 
-<img src="https://startguide.jp/media-post/1-1/3.png" width="500px">  
+<img src="https://startguide.jp/media-post/1-1/3.png" width="50vw">  
 使う目的を聞かれるので、ここではStudent(生徒)を選択しましょう。
 次にプログラミングの経験を聞かれるので、"A Little"(少しだけ)とかを選択します。
 最後に"What do you plan to use GitHub for?"(なににGitHubを使うの？)と聞かれるので、
@@ -25,13 +25,13 @@ UserNameとMailAddressとPassWordを入れて、クイズに回答しましょ�
 登録したアドレスにメールが届くので、リンクをクリックして確認しましょう。
 # リポジトリを作成しよう
 ここまででGitHubの登録作業は完了しました。次は、ファイルを置く場所となる"リポジトリ"を作成しましょう。  
-<img src="https://startguide.jp/media-post/1-1/4.png" width="500px">  
+<img src="https://startguide.jp/media-post/1-1/4.png" width="50vw">  
 [トップページ](https://github.com/) に戻り、"Cerate Repository"を選択しましょう。  
-<img src="https://startguide.jp/media-post/1-1/5.png" width="500px">  
+<img src="https://startguide.jp/media-post/1-1/5.png" width="50vw">  
 "Repository Name"を決めて、"Description"(説明)を入力しましょう。  
 "Create Repository"をクリックして次へ進みましょう。  
 # GitHubDesktopをインストールしよう
-<img src="https://startguide.jp/media-post/1-1/6.png" width="500px">  
+<img src="https://startguide.jp/media-post/1-1/6.png" width="50vw">  
 最初のリポジトリが作成されました。これがあなたの最初のキャンバスです。  
 次に[こちら](https://desktop.github.com/)からGitHubDesktopをインストールしましょう。  
 その後リポジトリに戻り、"Set up Desktop"をクリックして自分のパソコンにリポジトリを入れましょう。
