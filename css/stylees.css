@@ -281,9 +281,3 @@ p {
   left: 23px;
   z-index: 2;
 }
-.book{
-  height:auto;
-  width:auto;
-  max-width : device-width;
-  margin: 50px;
-}
