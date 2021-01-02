@@ -285,3 +285,7 @@ p {
   width: 100%;
   height: auto;
 }
+.postpic{
+  width:500px;
+  max-width:100%;
+}
