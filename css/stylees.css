@@ -284,6 +284,6 @@ p {
 .book{
   height:auto;
   width:auto;
-  max-width : 100%;
+  max-width : device-width;
   margin: 50px;
 }
