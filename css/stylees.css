@@ -282,6 +282,6 @@ p {
   z-index: 2;
 }
 .book{
-  height:650px;
-  width:500px;
+  height:100%;
+  width:auto;
 }
