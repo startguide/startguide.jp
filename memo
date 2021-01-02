@@ -2,23 +2,32 @@
   前準備編
     github
     atom
-    npm
     アドオン
-  html/css基礎
-    <head>と<body>
-    <a>
+    オープンソース
+
+
+  web基礎1
+    HTMLについて
     絶対パスと相対パス
     cssとの連携
-  html実践編
-  webページの構成
+    ドメインについて
+
+
+
+
+  web基礎2
+    webページの構成
+    サーバについて
+    動的ページと静的ページ
+
+
+  web実践編
     bootstrapの利用
     googlefont
     githubpages
-    css実践
-  html実践2
-    動的ページと静的ページ
     jekyll
     vue.js
+    npm
     ポートフォリオを作ってみよう
   役立つリンク集
     qiita
