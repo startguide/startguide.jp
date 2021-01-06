@@ -322,3 +322,13 @@ footer{
 .margin{
   margin-top:60px;
 }
+figure .card {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+figure:hover .card {
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
