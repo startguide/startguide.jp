@@ -1,2 +1,4 @@
-<img src="https://raw.githubusercontent.com/startguide/startguide.github.io/master/logo.png" style="width:200px;heigh:200px; margin:0,auto;"></img>
+<img src="https://startguide.jp/media/read.png" ></img>  
+# STARTGUIDE.jp -完全初心者向けホームページ制作ガイド-
+
 
