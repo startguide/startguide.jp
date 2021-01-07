@@ -9,3 +9,4 @@
 使用ジェネレータ`jekyll`  
 フレームワーク　`BootStrap`  
 デプロイ　`GitHubPages`  
+アイコン　`fontawesome`  
