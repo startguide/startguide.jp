@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "はじめに"
 date: "2020-12-22 23:44:31 +0900"
 ---
