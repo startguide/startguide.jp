@@ -13,3 +13,6 @@ plugins:
 permalink: /:month/:day/:minute
 gist:
   noscript: false
+algolia:
+  application_id: BPQTJ88369
+  index_name:     startguide # You can replace that with whatever name you want
