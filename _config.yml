@@ -15,5 +15,5 @@ algolia:
 theme: default
 plugins:
   - jekyll-feed
-
+  - jekyll-algolia
 permalink: /:month/:day/:minute
