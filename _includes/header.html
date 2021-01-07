@@ -101,28 +101,6 @@ autocomplete(
 </script>
 
 
-        {% include algolia.html %}
-        <div id="hits">
-  <!-- Hits widget will appear here -->
-
-</div>
-
-<script>
-  const search = instantsearch(options);
-
-  search.addWidget(
-    instantsearch.widgets.hits({
-      container: '#hits',
-      templates: {
-        empty: 'No results',
-        item: '<em>Hit {{objectID}}</em>: {{{_highlightResult.name.value}}}'
-      }
-    })
-  );
-
-  search.start();
-</script>
-    </div>
 
   </div>
 
