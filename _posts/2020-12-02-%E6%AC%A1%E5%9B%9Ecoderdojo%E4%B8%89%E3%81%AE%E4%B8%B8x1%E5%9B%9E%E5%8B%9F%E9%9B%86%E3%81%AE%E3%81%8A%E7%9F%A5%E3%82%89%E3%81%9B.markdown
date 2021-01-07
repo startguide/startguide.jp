@@ -1,6 +1,0 @@
----
-layout: post
-title: "次回CoderDojo三の丸(x+1)回募集のお知らせ"
-date: "2020-12-02 21:58:26 +0900"
----
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWkoaFsKYKB15f9B1Ub5jB5ED3qP11amzWTAUTfbdwQ-wqRQ/viewform?embedded=true" width="640" height="780" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
