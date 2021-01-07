@@ -13,6 +13,6 @@ plugins:
   - jekyll-feed
 permalink: /:month/:day/:minute
 
-lgolia:
+algolia:
   application_id: BPQTJ88369
   index_name: startguide
