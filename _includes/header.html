@@ -25,6 +25,25 @@
       <a class="nav-item nav-link" href="https://startguide.jp/joins.html">貢献する</a>
       <a class="nav-item nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfEXbbOVTpsIaGhHwDcgwf69e7Xv9o17LI19d7RJDcEmGY0lQ/viewform?usp=sf_link">お問い合わせ</a>
         {% include algolia.html %}
+        <div id="hits">
+  <!-- Hits widget will appear here -->
+</div>
+
+<script>
+  const search = instantsearch(options);
+
+  search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#hits',
+      templates: {
+        empty: 'No results',
+        item: '<em>Hit {{objectID}}</em>: {{{_highlightResult.name.value}}}'
+      }
+    })
+  );
+
+  search.start();
+</script>
     </div>
 
   </div>
