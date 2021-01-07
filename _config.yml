@@ -11,3 +11,4 @@ github_username:  startguide
 theme: default
 plugins:
   - jekyll-feed
+permalink: /:month/:day/:minute
