@@ -12,3 +12,7 @@ theme: default
 plugins:
   - jekyll-feed
 permalink: /:month/:day/:minute
+
+lgolia:
+  application_id: BPQTJ88369
+  index_name: startguide
