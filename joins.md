@@ -11,5 +11,9 @@ GitHubを通じて、STARTGUIDE.jpコミュニティの成長を支えること�
 # Slackで交流をする
 Slackを通じてユーザ同士での交流をすることにより、コミュニティの成長を促進することができます。
 # 寄付をする
-STARTGUIDE.jpコミュニティに寄付することにより、新規コンテンツの開発を促進することができます。
+<div class="title">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ituyama" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="寄付をする" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+</div>
+こちらのリンクよりSTARTGUIDE.jpに寄付をすることができます
 # STRATGUIDE.jpでは貢献があなたを構成する！
