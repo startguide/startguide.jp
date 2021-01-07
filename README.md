@@ -5,5 +5,7 @@
 寄付ページ　https://www.buymeacoffee.com/ituyama
 ## 継続的なコンテンツの提供のために、支援をお願いします
 <a href="https://www.buymeacoffee.com/ituyama" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-## 開発環境
-`jekyll`
+## 使用環境
+使用ジェネレータ`jekyll`  
+フレームワーク　`BootStrap`  
+デプロイ　`GitHubPages`  
