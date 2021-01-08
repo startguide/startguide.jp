@@ -5,7 +5,7 @@ email: ituyama01@stopover.co.jp
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://startguide.jp/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  startguide
+
 
 algolia:
   application_id: BPQTJ88369
