@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: startguide
 title: "エディタのインストール"
 date: "2021-01-03 00:29:03 +0900"
 ---
