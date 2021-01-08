@@ -4,7 +4,7 @@ email: ituyama01@stopover.co.jp
 
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://startguide.jp/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+
 
 
 algolia:
@@ -12,7 +12,7 @@ algolia:
   index_name: startguide
   search_only_api_key: 8d099779debe42c51a53fc439f19ff10
 # Build settings
-theme: startguide
+theme: default
 plugins:
   - jekyll-feed
   - jekyll-algolia
