@@ -1,4 +1,5 @@
 ---
+layout: startguide
 title:　"貢献する"
 date: "2021-01-06 14:14:45 +0900"
 ---
