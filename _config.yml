@@ -12,7 +12,7 @@ algolia:
   index_name: startguide
   search_only_api_key: 8d099779debe42c51a53fc439f19ff10
 # Build settings
-theme: default
+theme: startguide
 plugins:
   - jekyll-feed
   - jekyll-algolia
