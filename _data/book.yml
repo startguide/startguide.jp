@@ -1,0 +1,10 @@
+- name: 1.前準備編
+  bookid: 1
+- name: 2.Web基礎編1
+  bookid: 2
+- name: 3.Web基礎編2
+  bookid: 3
+- name: 4.web実践編
+  bookid: 4
+- name: andmore!
+  bookid : 0
