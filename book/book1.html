@@ -4,8 +4,6 @@ title: "startguide-book1"
 ---
 
 
-
-
 <!DOCTYPE html>
 <html lang="ja" dir="ltr">
 
@@ -52,21 +50,11 @@ title: "startguide-book1"
         <div class="row">
           <div class="title">
             <ul class="list-group　title ">
+              {{% for idnex in site.data.book1%}}
               <li class="list-group-item">
-                <a href="https://startguide.jp/12/29/49"><p class="menu-size">GitHubに登録しよう</p></a>
+                <a href="https://startguide.jp/{{ index.titleid }}"><p class="menu-size">{{ index.title }}</p></a>
               </li>
-              <li class="list-group-item">
-                <p class="menu-size">エディタをインストールしよう</p>
-              </li>
-              <li class="list-group-item">
-                <p class="menu-size">便利な拡張機能</p>
-              </li>
-              <li class="list-group-item">
-                <p class="menu-size">npmを入れてみよう</p>
-              </li>
-              <li class="list-group-item">
-                <p class="menu-size">おまけ　エディタ戦争について</p>
-              </li>
+              {{% endfor%}}
             </ul>
           </div>
 

@@ -36,50 +36,18 @@ title: "startguide"
   <div class="container">
 
     <div class="card-deck">
+{% for book in site.data.book %}
 
       <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-        <a href="https://startguide.jp/book/book1.html">
+        <a href="https://startguide.jp/book/book{{ book.bookid }}.html">
           <div class="card">
-            <img src="media/book1.png" alt="1.前準備編" class="book card-img-top">
+            <img src="media/book{{book.bookid}}.png" alt="{{book.name}}" class="book card-img-top">
 
           </div>
         </a>
       </div>
+{% endfor%}
 
-      <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-        <a href="https://startguide.jp/book/book2.html">
-          <div class="card">
-            <img src="media/book2.png" alt="2.Web基礎編1" class="book card-img-top">
-
-          </div>
-        </a>
-      </div>
-
-      <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-        <a href="https://startguide.jp/book/book3.html">
-          <div class="card">
-            <img src="media/book3.png" alt="3.Web基礎編2" class="book card-img-top">
-
-          </div>
-        </a>
-      </div>
-
-      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-        <a href="https://startguide.jp/book/book4.html">
-          <div class="card">
-            <img src="media/book4.png" alt="4.Web実践編" class="book card-img-top">
-
-          </div>
-        </a>
-      </div>
-      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-        <a href="https://github.com/startguide/startguide.jp">
-          <div class="card">
-            <img src="media/newbook.png" alt=" And More!" class="book card-img-top">
-
-          </div>
-        </a>
-      </div>
     </div>
 
   </div>
