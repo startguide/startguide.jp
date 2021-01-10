@@ -14,3 +14,4 @@ plugins:
   - jekyll-feed
 
 permalink: /:month/:day/:minute
+
