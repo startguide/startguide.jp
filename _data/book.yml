@@ -1,15 +1,5 @@
 - name: 1.前準備編
   bookid: 1
-  - title:　GitHubに登録しよう
-    titleid: 1
-  - title: エディタをインストールしよう
-    titleid: 2
-  - title: 便利な拡張機能
-    titleid: 3
-  - title: npmを入れてみよう
-    titleid: 4
-  - title: おまけ　エディタ戦争について
-    titleid: 5
 - name: 2.Web基礎編1
   bookid: 2
 - name: 3.Web基礎編2
