@@ -1,12 +1,6 @@
 # These are supported funding model platforms
 
 github: ituyama
+buymeacoffee: ituyama
 
-open_collective: ituyama
-ko_fi: ituyama
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: ituyama
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
 custom: https://www.buymeacoffee.com/ituyama
