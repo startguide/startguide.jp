@@ -50,12 +50,11 @@ title: "startguide-book1"
         <div class="row">
           <div class="title">
             <ul class="list-group　title ">
-              {{% for idnex in site.data.book1%}}
+              {% for index in site.data.book1 %}
               <li class="list-group-item">
-                <a href="https://startguide.jp/{{ index.titleid }}"><p class="menu-size">{{ index.title }}</p></a>
+                <a href="https://startguide.jp/{{index.titleid}}"><p class="menu-size">{{index.title}}</p></a>
               </li>
-              {{% endfor%}}
-            </ul>
+              {% endfor %}            </ul>
           </div>
 
         </div>
