@@ -17,7 +17,7 @@ permalink: /book1/2.html
   [こちら](https://atom.io)より、ダウンロードしましょう。  
   Atomが開いたら、次は日本語化と便利なアドオンのインストールをしましょう。
 # 日本語化しよう
-  日本語化には、"japanese-menu"という拡張機能がおすすめです。
+  日本語化には、"japanese-menu"という拡張機能がおすすめです。  
   <img src="https://startguide.jp/media-post/1-2/2.jpg" class="postpic">  
   左上のメニュー"File"から"Settings"を選択。  
     <img src="https://startguide.jp/media-post/1-2/3.jpg" class="postpic">  
