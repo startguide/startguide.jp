@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: startguide
 title: "便利な拡張機能"
 date: "2021-01-11 16:54:35 +0900"
 permalink: /book1/3.html
