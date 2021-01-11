@@ -21,4 +21,5 @@ date: "2021-01-03 00:29:03 +0900"
   左上のメニュー"File"から"Settings"を選択。  
     <img src="https://startguide.jp/media-post/1-2/3.jpg" class="postpic">  
   左のメニュー"install"を選択、"Japanese-menu"を選択し、インストールしましょう。  
+    <img src="https://startguide.jp/media-post/1-2/4.jpg" class="postpic">  
   インストール後、atomを再起動すると日本語になっています。
