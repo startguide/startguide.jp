@@ -15,3 +15,6 @@ date: "2021-01-03 00:29:03 +0900"
 # Atomをインストールしよう
   [こちら](https://atom.io)より、ダウンロードしましょう。  
   Atomが開いたら、次は日本語化と便利なアドオンのインストールをしましょう。
+# 日本語化しよう
+  日本語化には、"Japanese-Menu"という拡張機能がおすすめです。
+  <img src="https://startguide.jp/media-post/1-2/1.jpg" class="postpic">
