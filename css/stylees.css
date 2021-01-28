@@ -396,12 +396,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .logo-margin{
   margin:5px;
 }
-.btn{
-  border-radius:50px;
-  font-family: 'Raleway', sans-serif;
-  background-color: #ff4ac4;
-  color: white;
-}
+
 .sec-0{
   background-image: linear-gradient(-90deg, #D0008C, #89008D);
   padding-top: 10px;
@@ -416,12 +411,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .white{
   background-color: white;
 }
-.btn-1{
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  background-color:white;
-  color:black;
-  border-radius:50px;
-}
+
 .p-title{
   font-size:30px;
   font-color:black;
