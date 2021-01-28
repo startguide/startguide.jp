@@ -335,3 +335,10 @@ figure:hover img {
 body{
   scrollbar-color: aqua #7aa8fd;
 }
+.title-s{
+  font-size:50px;
+  font-family: 'JetBrains Mono', monospace;
+  margin:0 auto;
+  text-align: center;
+
+}
