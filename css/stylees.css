@@ -342,3 +342,7 @@ body{
   text-align: center;
 
 }
+.center{
+  margin:0 auto;
+  text-align: center;
+}
