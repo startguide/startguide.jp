@@ -348,5 +348,85 @@ body{
 }
 .img-card{
   width: 100%;
-  
+
+}
+/* body {
+  background-image: linear-gradient(-90deg, #D0008C, #89008D);
+} */
+
+.main-title {
+
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  font-size: 100px;
+}
+.margin{
+    margin-top:15vh;
+}
+.center {
+  text-align: center;
+  margin: 0px auto;
+}
+
+.text {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+.ex {
+  font-size: 20px;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+
+}
+
+.card {
+  border-radius: 10px;
+  background-color: white;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.c-text{
+  color:black;
+}
+.navbar{
+  border-radius:50px;
+
+
+}
+.logo-margin{
+  margin:5px;
+}
+.btn{
+  border-radius:50px;
+  font-family: 'Raleway', sans-serif;
+  background-color: #ff4ac4;
+  color: white;
+}
+.sec-0{
+  background-image: linear-gradient(-90deg, #D0008C, #89008D);
+  padding-top: 10px;
+}
+.sec-1{
+  position: relative;
+  background: linear-gradient(-90deg, #D0008C, #89008D);
+  height: 10vh;
+  border-bottom-left-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+}
+.white{
+  background-color: white;
+}
+.btn-1{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color:white;
+  color:black;
+  border-radius:50px;
+}
+.p-title{
+  font-size:30px;
+  font-color:black;
+
+}
+.margin-img{
+  margin-top:100px;
 }
