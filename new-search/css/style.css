@@ -1,0 +1,93 @@
+.logo{
+    width: 150px;
+    margin: 3px;
+  
+}
+.navbar{
+    background-color: whitesmoke;
+
+}
+body{
+font-family: 'Noto Sans JP', sans-serif;
+background-color: #b0e0e6;
+}
+.jumbotron{
+    background-color:#b0e0e6 ;
+
+}
+.main_titles{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(60, 60, 60);
+}
+.main_discription{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    font-weight: 900;
+}
+.badge{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    margin: 2px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    border: #74b6bf solid 7px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    color: #74b6bf;
+}
+.search-tags{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.btn-contacts{
+    background-color:whitesmoke ;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    border-radius: 20px;
+    border: #74b6bf solid 7px;
+    color: #74b6bf;
+}
+.search_input{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+   
+    }
+.search_area{
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.badge-addmore{
+    background-color:whitesmoke ;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    border-radius: 20px;
+    border: #4e9ba5 solid 7px;
+    color: #128199;
+}
+.badge:hover{
+
+        background-color:whitesmoke ;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-weight: 900;
+        border-radius: 20px;
+        border: #4e9ba5 solid 7px;
+        color: #128199;
+
+}
